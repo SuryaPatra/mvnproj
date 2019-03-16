@@ -31,9 +31,9 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>patra_repo</id>
             <name>Internal Releases</name>
-            <url>http://35.231.226.62:8081/repository/maven-releases/</url>
+            <url>http://35.196.53.77:8081/repository/patra_repo/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
